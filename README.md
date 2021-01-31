@@ -10,7 +10,7 @@ is to customise the configuration and to start electrumx.
 ## Usage
 This installs electrumx using the default options:
 
-    wget https://raw.githubusercontent.com/NewYorkCoinNYC/electrumx-installer/master/bootstrap.sh -O - | bash
+    wget https://raw.githubusercontent.com/devaultcrypto/dvt-electrumx-installer/master/bootstrap.sh -O - | bash
 
 You can also set some options if you want more control:
 
@@ -21,7 +21,7 @@ You can also set some options if you want more control:
 
 For example:
 
-    wget https://raw.githubusercontent.com/NewYorkCoinNYC/electrumx-installer/master/bootstrap.sh -O - | bash -s - -d /media/ssd/electrum-db
+    wget https://raw.githubusercontent.com/devaultcrypto/dvt-electrumx-installer/master/bootstrap.sh -O - | bash -s - -d /media/ssd/electrum-db
 
      
 ## Operating System Compatibility
@@ -30,9 +30,9 @@ The following operating systems are officially supported and automatically being
 
 | OS | Status |
 |----------|---:|
-| Ubuntu 20.04   | [![ubuntu](https://badges.herokuapp.com/travis/bauerj/electrumx-installer?env=IMAGE=%22ubuntu:20.04%22&label=ubuntu:20.04)](https://travis-ci.org/bauerj/electrumx-installer/) |
-| Ubuntu 18.04   | [![ubuntu](https://badges.herokuapp.com/travis/bauerj/electrumx-installer?env=IMAGE=%22ubuntu:18.04%22&label=ubuntu:18.04)](https://travis-ci.org/bauerj/electrumx-installer/) |
-| Debian Stretch | [![debian](https://badges.herokuapp.com/travis/bauerj/electrumx-installer?env=IMAGE=%22debian:9%22&label=debian:9)](https://travis-ci.org/bauerj/electrumx-installer/) |
+| Ubuntu 20.04   | [![ubuntu](https://badges.herokuapp.com/travis/devaultcrypto/dvt-electrumx-installer?env=IMAGE=%22ubuntu:20.04%22&label=ubuntu:20.04)](https://travis-ci.org/devaultcrypto/dvt-electrumx-installer/) |
+| Ubuntu 18.04   | [![ubuntu](https://badges.herokuapp.com/travis/devaultcrypto/dvt-electrumx-installer?env=IMAGE=%22ubuntu:18.04%22&label=ubuntu:18.04)](https://travis-ci.org/devaultcrypto/dvt-electrumx-installer/) |
+| Debian Stretch | [![debian](https://badges.herokuapp.com/travis/devaultcrypto/dvt-electrumx-installer?env=IMAGE=%22debian:9%22&label=debian:9)](https://travis-ci.org/devaultcrypto/dvt-electrumx-installer/) |
 
 
 If you prefer a different operating system that's not listed here, see
