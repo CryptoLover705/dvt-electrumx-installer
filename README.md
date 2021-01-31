@@ -30,11 +30,11 @@ The following operating systems are officially supported and automatically being
 
 | OS | Status |
 |----------|---:|
-| Ubuntu 20.04   | [![ubuntu](https://badges.herokuapp.com/travis/devaultcrypto/dvt-electrumx-installer?env=IMAGE=%22ubuntu:20.04%22&label=ubuntu:20.04)](https://travis-ci.org/devaultcrypto/dvt-electrumx-installer/) |
-| Ubuntu 18.04   | [![ubuntu](https://badges.herokuapp.com/travis/devaultcrypto/dvt-electrumx-installer?env=IMAGE=%22ubuntu:18.04%22&label=ubuntu:18.04)](https://travis-ci.org/devaultcrypto/dvt-electrumx-installer/) |
-| Debian Stretch | [![debian](https://badges.herokuapp.com/travis/devaultcrypto/dvt-electrumx-installer?env=IMAGE=%22debian:9%22&label=debian:9)](https://travis-ci.org/devaultcrypto/dvt-electrumx-installer/) |
+| Ubuntu 20.04   | [![ubuntu](https://badges.herokuapp.com/travis/bauerj/electrumx-installer?env=IMAGE=%22ubuntu:20.04%22&label=ubuntu:20.04)](https://travis-ci.org/bauerj/electrumx-installer/) |
+| Ubuntu 18.04   | [![ubuntu](https://badges.herokuapp.com/travis/bauerj/electrumx-installer?env=IMAGE=%22ubuntu:18.04%22&label=ubuntu:18.04)](https://travis-ci.org/bauerj/electrumx-installer/) |
+| Debian Stretch | [![debian](https://badges.herokuapp.com/travis/bauerj/electrumx-installer?env=IMAGE=%22debian:9%22&label=debian:9)](https://travis-ci.org/bauerj/electrumx-installer/) |
 
 
 If you prefer a different operating system that's not listed here, see
-[`distributions/README.md`](https://github.com/bauerj/electrumx-installer/blob/master/distributions/README.md) to find out how to add it.
-Or open an [issue](https://github.com/bauerj/electrumx-installer/issues/new) if you'd rather not do that yourself.
+[`distributions/README.md`](https://github.com/devaultcrypto/dvt-electrumx-installer/blob/master/distributions/README.md) to find out how to add it.
+Or open an [issue](https://github.com/devaultcrypto/dvt-electrumx-installer/issues/new) if you'd rather not do that yourself.
